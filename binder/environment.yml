@@ -1,0 +1,8 @@
+name: microbial-assembly
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - bash_kernel
