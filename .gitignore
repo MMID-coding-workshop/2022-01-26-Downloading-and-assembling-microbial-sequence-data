@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.fastq
+*.fastq.gz
+*.fasta
+quast_results/
+*.html
+*.zip
+*.json
