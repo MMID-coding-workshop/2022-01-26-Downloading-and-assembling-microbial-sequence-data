@@ -5,4 +5,4 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
-  - bash_kernel
+  - calysto_bash
