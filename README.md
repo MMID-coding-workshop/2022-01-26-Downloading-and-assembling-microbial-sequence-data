@@ -5,7 +5,10 @@ This repository contains the slides and additional materials for the **Downloadi
 
 ## 1. Interactive Jupyter notebook
 
-The commands used for downloading and assembling microbial genomes is provided as an interactive [Jupyter notebook][Jupyter]: [genome-assembly.ipynb][]. If you wish to launch this notebook in a cloud-based environment to follow along please click the [![Binder][]][tutorial-binder] link.
+The commands used for downloading and assembling microbial genomes is provided as an interactive [Jupyter notebook][Jupyter]:
+
+* [microbial-genome-assembly.ipynb](tutorial/microbial-genome-assembly.ipynb)
+    * If you wish to launch this notebook in a cloud-based environment to follow along please click the [![Binder][]][tutorial-binder] link.
 
 ## 2. Workshop material
 
