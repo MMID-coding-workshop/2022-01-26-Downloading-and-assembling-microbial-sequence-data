@@ -1,4 +1,4 @@
-/tutorial/.ipynb_checkpoints/
+.ipynb_checkpoints/
 /tutorial/*.fastq
 /tutorial/*.fastq.gz
 /tutorial/*.fasta

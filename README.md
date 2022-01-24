@@ -13,6 +13,6 @@ The commands used for downloading and assembling microbial genomes is provided a
 
 [Jupyter]: https://jupyter.org/
 [Binder]: https://mybinder.org/badge_logo.svg
-[tutorial-binder]: https://mybinder.org/v2/gh/apetkau/2022-01-26-Downloading-and-assembling-microbial-sequence-data/main?urlpath=lab%2Ftree%2Ftutorial%2Fmicrobial-genome-assembly.ipynb
+[tutorial-binder]: https://mybinder.org/v2/gh/MMID-coding-workshop/2022-01-26-Downloading-and-assembling-microbial-sequence-data/main?urlpath=lab%2Ftree%2Ftutorial%2Fmicrobial-genome-assembly.ipynb
 [MMID Coding workshop]: https://umanitobammidsc.ca/mmid-coding-workshop/
 [genome-assembly.ipynb]: tutorial/microbial-genome-assembly.ipynb
