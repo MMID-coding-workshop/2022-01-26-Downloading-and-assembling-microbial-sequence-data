@@ -7,3 +7,4 @@ dependencies:
   - jupyterlab
   - calysto_bash
   - zip
+  - mamba
