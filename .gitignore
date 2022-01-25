@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+/tutorial/*.fastq
+/tutorial/*.fastq.gz
+/tutorial/*.fasta
+/tutorial/quast_results/
+/tutorial/*.html
+/tutorial/*.zip
+/tutorial/*.json
+/tutorial/*.csv

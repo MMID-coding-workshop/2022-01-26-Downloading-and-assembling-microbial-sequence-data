@@ -1,0 +1,10 @@
+name: microbial-assembly
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - calysto_bash
+  - zip
+  - mamba
