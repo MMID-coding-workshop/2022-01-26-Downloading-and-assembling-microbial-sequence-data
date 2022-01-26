@@ -18,7 +18,7 @@ In addition to the slides, there is also an additional tutorial provided as an i
 
 The easiest way to use the Juptyer notebook above is to open it up in GitHub ([microbial-genome-assembly.ipynb][genome-assembly.ipynb]) and then copy/paste the appropriate commands shown into a local terminal/Bash.
 
-![copy-paste-terminal.png](images/copy-paste-termina.png)
+![copy-paste-terminal.png](images/copy-paste-terminal.png)
 
 ### 2.2. Run in a cloud-based environmend
 
