@@ -3,6 +3,9 @@
 
 This repository contains the slides and additional materials for the **Downloading and assembling microbial sequence data** [MMID Coding workshop][] for **January 26, 2022**.
 
+Workshop lecture video (January 26, 2022) video is now available on YouTube at https://www.youtube.com/watch?v=JeMcTmT_94o
+
+
 ## 1. Workshop material
 
 * [MMID_CodingWorkshop-2022-01-26-AssemblingMicrobialSequence.pdf](MMID_CodingWorkshop-2022-01-26-AssemblingMicrobialSequence.pdf): The slides for the workshop.
